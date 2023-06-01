@@ -1,0 +1,30 @@
+{
+	"UIDS":[6453,6449],
+	"Trades":
+	[
+		{
+			"trade":"BBB-CNY",
+			"pass":"0"
+		},
+		{
+			"trade":"DDN-CNY",
+			"pass":"0"
+		},
+		{
+			"trade":"ETH-CNY",
+			"pass":"0"
+		},
+		{
+			"trade":"ELF-CNY",
+			"pass":"0"
+		},
+		{
+			"trade":"LINK-CNY",
+			"pass":"0"
+		},
+		{
+			"trade":"LRC-CNY",
+			"pass":"0"
+		}
+	]
+}

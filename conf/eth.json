@@ -1,0 +1,24 @@
+{
+	"uid":"6449",
+	"Trades":
+	[
+		{
+			"trade":"DDN-ETH",
+			"rank":"100",
+			"yesterday":"1",
+			"pass":"1"
+		},
+		{
+			"trade":"BBB-ETH",
+			"rank":"50",
+			"yesterday":"1",
+			"pass":"0"
+		},
+		{
+			"trade":"ELF-ETH",
+			"rank":"50",
+			"yesterday":"0",
+			"pass":"1"
+		}
+	]
+}
